@@ -8,6 +8,9 @@ contributor:
     deathdate: 1943
     gutenberg_agent_id: '57920'
     url: http://www.gutenberg.org/2009/agents/57920
+covers:
+- cover_type: archival
+  image_path: 75282-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dow, George Francis
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '57919'
     url: http://www.gutenberg.org/2009/agents/57919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75282#The-pirates-of-the-New-England-coast-1630-1730
 gutenberg_issued: '2025-02-03'
 gutenberg_type: Text
 identifiers:
